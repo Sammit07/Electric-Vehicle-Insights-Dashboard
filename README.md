@@ -98,10 +98,9 @@ Executives get KPIs up top; analysts drill by Type/Make/Region below; slicers ke
 
 ### 1) Data
 - Download from Kaggle (link above).  
-- Optional: add a **small sample** to `data/` for demos. Keep big raw files out of Git.
 
 ### 2) Power BI
-1. Open `powerbi/EV_Analytics.pbix`.  
+1. Open `EV Insights dashboatd.pbix`.  
 2. **Home → Transform data → Data source settings → Change Source…** to point to your CSV.  
 3. **Refresh** and interact with slicers.
 
@@ -115,4 +114,4 @@ pip install pandas numpy matplotlib
 ```
 
 ### 4) SQL
-- Open `sql/ev analytics.sql` in your client and run the sections you need.
+- Open `ev analytics.sql` in your client and run the sections you need.
