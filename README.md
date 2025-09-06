@@ -37,7 +37,7 @@ Common fields include:
 
 ---
 
-## 🔍 SQL code overview (`sql/ev analytics.sql`)
+## 🔍 SQL code overview 
 
 Written for **MySQL 8+** (window functions), but easy to adapt.
 
@@ -57,7 +57,7 @@ Written for **MySQL 8+** (window functions), but easy to adapt.
 
 ---
 
-## 📒 Notebook overview (`notebooks/EV Analytics.ipynb`)
+## 📒 Notebook overview 
 
 A lightweight, reproducible EDA that supports the dashboard:
 
@@ -72,7 +72,7 @@ A lightweight, reproducible EDA that supports the dashboard:
 
 ---
 
-## 📊 Power BI dashboard (what you’ll see)
+## 📊 Power BI dashboard
 
 **KPIs (cards)**
 - **Vehicles** — *distinct count* of `Vehicle_ID`  
